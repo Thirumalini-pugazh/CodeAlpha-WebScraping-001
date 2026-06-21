@@ -130,12 +130,81 @@ Through this project, I learned:
 * Creating visualizations using Matplotlib and Seaborn.
 * Extracting business insights from raw data.
 
-## Internship
+  
+
+# CodeAlpha Data Analytics Internship - Task 4: Sentiment Analysis
+
+## Project Overview
+
+This project performs sentiment analysis on customer reviews using Python. The objective is to classify reviews as Positive, Negative, or Neutral based on the words present in the review text.
+
+## Objective
+
+To analyze customer feedback and determine the sentiment expressed in each review.
+
+## Tools and Technologies Used
+
+* Python
+* Pandas
+* Google Colab
+
+## Dataset
+
+The dataset contains customer review comments stored in a CSV file.
+
+### Dataset Column
+
+* Review
+
+## Methodology
+
+1. Imported the dataset using Pandas.
+2. Created a sentiment classification function.
+3. Defined positive and negative keywords.
+4. Analyzed each review.
+5. Assigned a sentiment label:
+
+   * Positive
+   * Negative
+   * Neutral
+6. Saved the results to a new CSV file.
+
+## Output
+
+The output file contains:
+
+* Review
+* Sentiment
+
+## Key Insights
+
+* Positive reviews indicate customer satisfaction.
+* Negative reviews highlight customer concerns.
+* Neutral reviews provide balanced feedback.
+* Sentiment analysis helps businesses understand customer opinions.
+
+## Files Included
+
+* Task4_SentimentAnalysis.ipynb
+* reviews.csv
+* sentiment_output.csv
+* README.md
+
+## Learning Outcomes
+
+* Data preprocessing using Pandas
+* Text analysis fundamentals
+* Sentiment classification
+* Working with CSV files
+* Data analytics project documentation
+
+## Internship Program
 
 CodeAlpha Data Analytics Internship
 
 ## Author
 
-Thiru Pugazh
+THIRUMALINI P
+
 
 
